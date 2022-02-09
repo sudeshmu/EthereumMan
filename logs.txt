@@ -1,0 +1,5 @@
+INFO: 2022/02/01 15:57:12 main.go:12: Test
+ERROR: 2022/02/01 16:59:15 config.go:23: invalid argument
+ERROR: 2022/02/01 17:01:05 config.go:23: invalid argument
+ERROR: 2022/02/01 17:01:31 config.go:24: invalid argument
+INFO: 2022/02/01 17:01:57 main.go:13: Test
